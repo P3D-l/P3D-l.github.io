@@ -1,0 +1,52 @@
+body {
+    background-color: #bcc7ff;
+}
+
+h1 {
+    text-align: center;
+    font-family: "MADE gentle";
+    font-weight: lighter;
+}
+
+h2 {
+    text-align: center;
+}
+
+.pill-nav a {
+    background-color: #feffa3;
+    border: none;
+    border-radius: 9px;
+    color: #b45587;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "cream DEMO";
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.pill-nav a:hover {background-color: #bae1ff;}
+
+figure {
+    background-color: #bae1ff;
+    border: thick #bae1ff solid;
+    border-radius: 9px;
+    border: thick #bae1ff solid;
+    display: flex;
+    flex-flow: column;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-family: "cream DEMO";
+}
